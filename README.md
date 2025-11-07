@@ -1,4 +1,4 @@
-<p align="center"><a href="https://siega52.github.io"><img width="80%" alt="Hi, I'm Sergey and I'm a frontend developer!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://github.com/siega52"><img width="80%" alt="Hi, I'm Sergey and I'm a frontend developer!" src="./assets/img.png" /></a></p>
 
 <br />
 
