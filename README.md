@@ -28,6 +28,8 @@ A few years ago, I realized I wanted to focus on being useful. So I'm trying to 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scss/scss-original.svg" height="40" alt="scss logo"  />
+  <img width="12" />
 </div>
 
 
